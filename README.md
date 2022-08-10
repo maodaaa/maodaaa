@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Maorid Manarul Hidayat**.\
 Saya seorang **Mahasiswa Sistem Informatika** di [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/maorid-manarul-hidayat-768763130/))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/maorid-manarul-hidayat-768763130/])ku ya.
  
 <p align="left">
 <a href="https://github.com/maodaaa">
